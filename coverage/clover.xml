@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1733729444675" clover="3.2.0">
+  <project timestamp="1733729444676" name="All files">
+    <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4" elements="20" coveredelements="20" complexity="0" loc="12" ncloc="12" packages="1" files="4" classes="4"/>
+    <file name="math.js" path="I:\Javascript\Jest\math.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="stringUtils.js" path="I:\Javascript\Jest\stringUtils.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="timer.js" path="I:\Javascript\Jest\timer.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="user.js" path="I:\Javascript\Jest\user.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
